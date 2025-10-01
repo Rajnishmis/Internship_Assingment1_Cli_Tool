@@ -33,7 +33,7 @@ python main.py data/input.csv data/output.csv
 ```
 ## Workflow
 CSV Input --> Validation --> Geocoding --> Valid Output CSV
-                        └─> Error Logs
+                      
 
 ## Requirements
 
