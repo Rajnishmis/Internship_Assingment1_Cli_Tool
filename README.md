@@ -31,6 +31,9 @@ python -m client_validator.main <input_csv_path> <output_csv_path>
 ```
 python main.py data/input.csv data/output.csv
 ```
+## Workflow
+CSV Input --> Validation --> Geocoding --> Valid Output CSV
+                        └─> Error Logs
 
 ## Requirements
 
