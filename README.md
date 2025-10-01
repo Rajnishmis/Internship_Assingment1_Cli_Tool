@@ -47,6 +47,3 @@ python main.py data/input.csv data/output.csv
 - Update validation logic in `address_verification.py` for different countries
 - Add reference data for postcode-locality-state mapping if needed
 
-## License
-
-MIT
