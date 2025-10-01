@@ -1,6 +1,6 @@
 # Client Data Validator CLI
 
-This tool validates and enhances client data from a CSV file, including address validation and GEO coordinate fetching.
+Client Data Validator CLI is a command-line tool that helps ensure the accuracy and quality of client data stored in CSV files. It automatically validates essential fields such as names, emails, addresses, and postcodes, checks for consistency between location details, and enriches valid records with geographic coordinates like latitude and longitude. The tool separates clean, usable data from invalid entries by exporting valid rows into a new CSV file and logging problematic records with detailed error messages. By automating data validation and enhancement, it saves time, reduces errors, and ensures that businesses can rely on their client information for analytics, mapping, logistics, or customer communications.
 
 ## Features
 
